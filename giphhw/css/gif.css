@@ -1,0 +1,88 @@
+header {
+    width: 100%;
+    margin: 20px 60px 0px 100px;
+    padding-left: 65px;
+    height:65px;
+    font-family: "Courier New", Courier, monospace;
+    color: white;
+    font-size: 32px;
+    background-color:#FF4500;    
+}
+body {   
+    height: 100%;
+    width:100%;
+    background-image: url(images/mulanMural.jpg);        
+}
+#first-thin-color-bar {    
+    height: 10px;
+    width: 100%;
+    margin-left: 175px;
+    background-color: tan;
+    border: 1px solid #CC9966;
+    border-bottom: 1px solid #996600;
+}
+#button-bar {    
+    height: 25px;
+    width: 100%;
+    margin-top; 0px;
+    margin-left: 250px;
+    background-color: #ead4cc;
+    padding: 0px 0px 0px 0px;
+    font-family: "Courier New";
+    font-size: 20px;
+    border: 1px solid #CC9966;
+    border-bottom: 3px solid #CC9966;
+}
+.mma-giff {   
+    height: 24px;
+    width: 100px;
+    margin-left: 35px;
+    background-color: #ead4cc;
+    border-right: 1px solid tan;
+    border-left: orangered;
+    border-top: orangered;
+    border-bottom: orangered;
+    color: black;    
+}
+.mma-giff: hover {
+    border: black;
+    background-color: black;    
+}
+#second-thin-color-bar {    
+    height: 9px;
+    width: 100%;
+    margin-left: 115px;
+    background-color: tan;
+    border: 1px solid #CC9966;
+    border-bottom: 2px solid #996600;
+}
+#gifsAppearHere {
+        margin-left: 150px;
+}
+/*div {
+    
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: solid black 5px;
+    
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
